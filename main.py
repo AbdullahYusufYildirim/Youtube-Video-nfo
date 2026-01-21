@@ -7,3 +7,5 @@
 
     print(f"Title: {yt.title}")
     print(f"URL: {url}")
+    print(f"Duration: {yt.length} seconds")
+
