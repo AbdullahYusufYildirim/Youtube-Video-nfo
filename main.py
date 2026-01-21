@@ -10,4 +10,4 @@
     print(f"Duration: {yt.length} seconds")
     print(f"Channel: {yt.author}")
     print(f"Views: {yt.views}")
-
+    print(f"Thumbnail Url : {yt.thumbnail_url}")
