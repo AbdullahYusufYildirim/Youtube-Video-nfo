@@ -9,3 +9,5 @@
     print(f"URL: {url}")
     print(f"Duration: {yt.length} seconds")
     print(f"Channel: {yt.author}")
+    print(f"Views: {yt.views}")
+
