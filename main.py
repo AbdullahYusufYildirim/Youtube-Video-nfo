@@ -1,9 +1,9 @@
-from pytubefix import YouTube
+    from pytubefix import YouTube
 
 
-url = input("Enter YouTube video URL: ")
+    url = input("Enter YouTube video URL: ")
 
-yt = YouTube(url)
+    yt = YouTube(url)
 
-print(f"Title: {yt.title}")
-
+    print(f"Title: {yt.title}")
+    print(f"URL: {url}")
